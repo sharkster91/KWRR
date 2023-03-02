@@ -1,0 +1,334 @@
+module KWRR
+{
+
+    	item GetGoodPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= GetGood,
+		Weight		  	= 0.5,
+		DisplayName		= Get Good Poster,
+		WorldObjectSprite	= posters_1_1,
+	}
+
+		item RailgunPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= RailGun,
+		Weight		  	= 0.5,
+		DisplayName		= Railgun Poster,
+		WorldObjectSprite	= posters_1_2,
+	}
+
+		item BritsAreComingPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Brits,
+		Weight		  	= 0.5,
+		DisplayName		= The Brits Are Coming Poster,
+		WorldObjectSprite	= posters_1_5,
+	}
+
+		item RealEstatePoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= RealEstate,
+		Weight		  	= 0.5,
+		DisplayName		= Its Free Real Estate Poster,
+		WorldObjectSprite	= posters_1_7,
+	}
+
+    	item AnimePoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= AnimeThree,
+		Weight		  	= 0.5,
+		DisplayName		= Anime Poster #1,
+		WorldObjectSprite	= posters_1_7,
+	}
+
+	    item AnimePosterTwo
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= AnimeThree,
+		Weight		  	= 0.5,
+		DisplayName		= Anime Poster #2,
+		WorldObjectSprite	= posters_1_19,
+	}
+
+		item SwimsuitGirlPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= SwimsuitGirl,
+		Weight		  	= 0.5,
+		DisplayName		= Anime Poster #3,
+		WorldObjectSprite	= posters_1_13,
+	}
+
+        item KWRRSeason4Poster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= KWRR,
+		Weight		  	= 0.5,
+		DisplayName		= KWRR Season 4 Poster,
+		WorldObjectSprite	= posters_1_10,
+	}
+
+        item SCPPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= SCP,
+		Weight		  	= 0.5,
+		DisplayName		= SCP Poster,
+		WorldObjectSprite	= posters_1_23,
+	}
+
+        item CaitlynPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Caitlyn,
+		Weight		  	= 0.5,
+		DisplayName		= Caitlyn Poster,
+		WorldObjectSprite	= posters_1_14,
+	}
+
+        item FelixPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Felix,
+		Weight		  	= 0.5,
+		DisplayName		= Felix Poster,
+		WorldObjectSprite	= posters_1_36,
+	}
+
+        item BeachSlimePoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= BeachSlime2,
+		Weight		  	= 0.5,
+		DisplayName		= Beach Slime Poster,
+		WorldObjectSprite	= posters_1_49,
+	}
+
+		item LoL1Poster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= League1,
+		Weight		  	= 0.5,
+		DisplayName		= League Of Legends #1 Poster,
+		WorldObjectSprite	= posters_1_22,
+	}
+
+		item LoL2Poster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= League2,
+		Weight		  	= 0.5,
+		DisplayName		= League Of Legends #2 Poster,
+		WorldObjectSprite	= posters_1_20,
+	}
+
+		item RoxiPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= League2,
+		Weight		  	= 0.5,
+		DisplayName		= Roxi Poster,
+		WorldObjectSprite	= posters_1_26,
+	}
+
+		item BeachSlime2Poster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= BeachSlime2,
+		Weight		  	= 0.5,
+		DisplayName		= Beach Slime #2 Poster,
+		WorldObjectSprite	= posters_1_54,
+	}
+
+		item CertainScientificRailgunPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= CertainMagicalIndex,
+		Weight		  	= 0.5,
+		DisplayName		= Certain Scientific Railgun Poster,
+		WorldObjectSprite	= posters_1_37,
+	}
+
+
+		item EveCovenPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Evelynn,
+		Weight		  	= 0.5,
+		DisplayName		= Evelynn Poster,
+		WorldObjectSprite	= posters_1_52,
+	}
+
+		item AyaPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Aya,
+		Weight		  	= 0.5,
+		DisplayName		= Aya Poster,
+		WorldObjectSprite	= posters_1_30,
+	}
+
+		item WaifusPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Rimuru,
+		Weight		  	= 0.5,
+		DisplayName		= Waifus Poster,
+		WorldObjectSprite	= posters_1_59,
+	}
+
+		item KurokoAndKazariPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Rimuru,
+		Weight		  	= 0.5,
+		DisplayName		= Kuroko and Kazari Poster,
+		WorldObjectSprite	= posters_1_57,
+	}
+
+		item CertainMagicalIndexPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= CertainMagicalIndex,
+		Weight		  	= 0.5,
+		DisplayName		= Certain Magical Index Poster,
+		WorldObjectSprite	= posters_1_40,
+	}
+
+		item GirlPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= GirlPoster,
+		Weight		  	= 0.5,
+		DisplayName		= Girl Poster,
+		WorldObjectSprite	= posters_1_41,
+	}
+
+		item ShiraiKurokoPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= SlimeBeach2,
+		Weight		  	= 0.5,
+		DisplayName		= Shirai Kuroko Poster,
+		WorldObjectSprite	= posters_1_16,
+	}
+
+		item AstolfoPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Astolfo,
+		Weight		  	= 0.5,
+		DisplayName		= Astolfo Poster,
+		WorldObjectSprite	= posters_2_1,
+	}
+
+		item RimAndRumPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= RimAndRum,
+		Weight		  	= 0.5,
+		DisplayName		= Rim and Rum,
+		WorldObjectSprite	= posters_2_6,
+	}
+
+		item BigBrotherIsWatchingPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= BigBroIsWatching,
+		Weight		  	= 0.5,
+		DisplayName		= Big Brother Is Watching Poster,
+		WorldObjectSprite	= posters_2_11,
+	}
+
+        item RebeccaPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= RebeccaPoster,
+		Weight		  	= 0.5,
+		DisplayName		= Rebecca Poster,
+		WorldObjectSprite	= posters_1_44,
+	}
+
+	    item LucyPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= LucyPoster,
+		Weight		  	= 0.5,
+		DisplayName		= Lucy Poster,
+		WorldObjectSprite	= posters_1_55,
+	}
+
+		item LucyAndDavidPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= LucyAndDavidPoster,
+		Weight		  	= 0.5,
+		DisplayName		= Lucy and David Poster,
+		WorldObjectSprite	= posters_2_8,
+	}
+
+		item LucyAndDavidPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= LucyAndDavidPoster,
+		Weight		  	= 0.5,
+		DisplayName		= Lucy and David Poster,
+		WorldObjectSprite	= posters_2_8,
+	}
+
+		item LittleNightmaresPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Placeholder,
+		Weight		  	= 0.5,
+		DisplayName		= Little Nightmares Poster,
+		WorldObjectSprite	= posters_2_5,
+	}
+
+		item SpiceAndWolfPoster
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= SpiceAndWolf,
+		Weight		  	= 0.5,
+		DisplayName		= Spice And Wolf Poster,
+		WorldObjectSprite	= posters_1_48,
+	}
+}

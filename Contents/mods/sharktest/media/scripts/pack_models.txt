@@ -1,0 +1,46 @@
+module Base
+{
+    
+model EnergySword
+    {
+        mesh = 1handed/EnergySword,
+        texture = 1handed/EnergySword,
+    }	
+
+model PoolNoodleRed
+    {
+        mesh = 1handed/PoolNoodle,
+        texture = 1handed/RedNoodle,
+    }	
+
+model PoolNoodleBlue
+    {
+        mesh = 1handed/PoolNoodle,
+        texture = 1handed/BlueNoodle,
+    }	
+
+model PoolNoodleGreen
+    {
+        mesh = 1handed/PoolNoodle,
+        texture = 1handed/GreenNoodle,
+    }
+
+model PoolNoodleYellow
+    {
+        mesh = 1handed/PoolNoodle,
+        texture = 1handed/YellowNoodle,
+    }
+
+model PoolNoodlePurple
+    {
+        mesh = 1handed/PoolNoodle,
+        texture = 1handed/PurpleNoodle,
+    }	
+
+model PoolNoodlePink
+    {
+        mesh = 1handed/PoolNoodle,
+        texture = 1handed/PinkNoodle,
+    }	
+
+}

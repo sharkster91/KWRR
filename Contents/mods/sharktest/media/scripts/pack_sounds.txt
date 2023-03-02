@@ -1,0 +1,15 @@
+module Base {
+
+    sound EnergySwordSwing {
+        category = sound: Main, loop = false, is3D = true,
+        clip { file = media/sounds/EnergySwordSwing.ogg, distanceMax = 350, reverbFactor = 0.1, volume = 0.5, } }
+
+    sound EnergySwordHit {
+        category = sound: Main, loop = false, is3D = true,
+        clip { file = media/sounds/EnergySwordHit.ogg, distanceMax = 350, reverbFactor = 0.1, volume = 0.5, } }
+
+    sound PoolNoodleHit {
+        category = sound: Main, loop = false, is3D = true,
+        clip { file = media/sounds/PoolNoodleHit.ogg, distanceMax = 350, reverbFactor = 0.1, volume = 0.5, } }
+
+}

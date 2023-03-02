@@ -1,0 +1,333 @@
+module KWRR
+{
+    	recipe Make a "Lucy" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:LucyPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+    	recipe Make a "Rebecca" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:RebeccaPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+	    recipe Make a "Lucy and David" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:LucyAndDavidPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "LoL Poster #1" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:LoL1Poster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "LoL Poster #2" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:LoL2Poster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+	
+		recipe Make a "The Brits Are Coming" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:BritsAreComingPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Get Good" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:GetGoodPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Railgun" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:RailgunPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Its Free Real Estate" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:RealEstatePoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Anime Poster" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:AnimePoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Anime Poster #2" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:AnimePosterTwo,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Spice And Wolf" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:SpiceAndWolfPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "KWRR Season 4" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result:KWRRSeason4Poster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "SCP" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: SCPPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Caitlyn" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: CaitlynPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Felix" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: FelixPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Astolfo" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: FelixPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Beach Slime" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: BeachSlimePoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Beach Slime #2" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: BeachSlime2Poster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Swimsuit Girl" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: SwimsuitGirlPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Roxi" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: RoxiPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Certain Scientific Railgun" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: CertainScientificRailgunPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Evelynn" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: EveCovenPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Waifus" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: WaifusPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Kuroko and Kazari" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: KurokoAndKazariPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Certain Magical Index" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: CertainMagicalIndexPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Picture of a Girl" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: GirlPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Shirai Kuroko" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: ShiraiKurokoPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Rim And Rum" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: RimAndRumPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Make a "Big Brother is Watching" Poster
+	{
+		Category:Posters,
+		Pencil,
+		SheetPaper2,
+		Result: BigBrotherIsWatchingPoster,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+}
