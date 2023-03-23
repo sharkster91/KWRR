@@ -11,6 +11,7 @@ item WitcherSheathAndSword
 		BodyLocation = AerondightSheath,
         BloodLocation = Jumper,
         Weight	=	0.5,
+        AttachmentsProvided = KatanaSheath,
 		Icon = WitcherSheathAndSword,
         WorldStaticModel = WitcherSheathAndSword_WorldItem,
     }
@@ -55,7 +56,7 @@ item Aerondight
 		HitFloorSound = APS,
         BreakSound  =   MacheteBreak,
 		SwingSound = MacheteSwing,
-		AttachmentType = Aerondight_Sheath,
+		AttachmentType = Katana,
 		DamageCategory = Slash,
         DamageMakeHole = TRUE,
 	}

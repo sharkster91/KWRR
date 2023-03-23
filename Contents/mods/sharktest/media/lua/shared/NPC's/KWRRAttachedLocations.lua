@@ -4,7 +4,7 @@
 
 local group = AttachedLocations.getGroup("Human")
 
-group:getOrCreateLocation("Aerodnight in Sheath"):setAttachmentName("Aerodnight_Sheath")
+group:getOrCreateLocation("Katana in Sheath"):setAttachmentName("Katana_Sheath")
 
 if getDebug() then
 	group:getOrCreateLocation("OnBack"):setAttachmentName("back")
