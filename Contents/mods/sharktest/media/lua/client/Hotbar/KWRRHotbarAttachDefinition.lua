@@ -3,32 +3,12 @@ if not ISHotbarAttachDefinition then
     return
 end
 
-local KnifeSheathBack = {
-	type = "KnifeSheathBack",
-	name = "KnifeSheathBack",
-	animset = "belt right",
-	attachments = {
-		Knife = "Knife in Sheath (Back)",
-	},
-}
-table.insert(ISHotbarAttachDefinition, KnifeSheathBack);
-
-local KnifeSheathLeg = {
-	type = "KnifeSheathLeg",
-	name = "KnifeSheathLeg",
-	animset = "belt right",
-	attachments = {
-		Knife = "Knife in Sheath (Leg)",
-	},
-}
-table.insert(ISHotbarAttachDefinition, KnifeSheathLeg);
-
-local KatanaSheath = {
-	type = "KatanaSheath",
-	name = "KatanaSheath",
+local AerondightSheath = {
+	type = "AerondightSheath",
+	name = "AerondightSheath",
 	animset = "back",
 	attachments = {
-		Katana = "Katana in Sheath",
+		Aerondight = "Aerondight in Sheath",
 	},
 }
-table.insert(ISHotbarAttachDefinition, KatanaSheath);
+table.insert(ISHotbarAttachDefinition, AerondightSheath);
