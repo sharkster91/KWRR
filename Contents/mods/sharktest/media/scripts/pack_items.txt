@@ -4,14 +4,14 @@ module KWRR
 item WitcherSheathAndSword
 
     {
-        DisplayCategory = Accessory,
-        ClothingItem = WitcherSheathAndSword,
-        Weight	=	0.1,
-        Type	=	Clothing,
-        DisplayName	=	Witcher Sheath and Sword,
-        Icon	=	WitcherSheathAndSword,
-        BodyLocation = KatanaSheath,
-        AttachmentsProvided = KatanaSheath,   
+		DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Witcher Sheath and Sword,
+		ClothingItem = WitcherSheathAndSword,
+		BodyLocation = AerondightSheath,
+        BloodLocation = Jumper,
+        Weight	=	0.5,
+		Icon = WitcherSheathAndSword,
         WorldStaticModel = WitcherSheathAndSword_WorldItem,
     }
     
