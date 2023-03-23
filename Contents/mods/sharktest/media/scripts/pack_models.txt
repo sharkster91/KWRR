@@ -1,6 +1,18 @@
 module Base
 {
-    
+
+model WitcherSheathAndSword_WorldItem
+    {
+        mesh = worlditems/WitcherSheathAndSword_WorldItem,
+        texture = clothes/WitcherSheathAndSword,
+    }	
+  
+model Aerondight
+    {
+        mesh = 1handed/Aerondight,
+        texture = 1handed/Aerondight,
+    }	
+
 model EnergySword
     {
         mesh = 1handed/EnergySword,

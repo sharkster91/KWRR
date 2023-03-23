@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\WitcherSheathAndSword</m_MaleModel>
+	<m_FemaleModel>static\clothes\WitcherSheathAndSword</m_FemaleModel>
+	<m_GUID>61d02ca2-ed39-4e8c-af17-6a42678b43b8</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_BackPack</m_AttachBone>
+	<textureChoices>Textures\Clothes\WitcherSheathAndSword</textureChoices>
+</clothingItem>
