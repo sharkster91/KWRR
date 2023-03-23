@@ -1,4 +1,4 @@
 IGUI_EN = 
 	{
-	IGUI_HotbarAttachment_KatanaSheath = "Sheath (Katana)",
+	IGUI_HotbarAttachment_AerondightSheath = "Sheath (Aerondight)",
 	}
