@@ -1,0 +1,123 @@
+module KWRR
+{
+    	recipe Paint "Daddy Im Hungry" Graffiti
+	{
+		Category:Posters,
+		PaintRed,
+		Paintbrush,
+		Result:DaddyImHungry,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+	    recipe Paint "Bow To Dragon" Graffiti
+	{
+		Category:Posters,
+		PaintRed,
+		Paintbrush,
+		Result:BowToDragon,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Paint "Heed The Dragon" Graffiti
+	{
+		Category:Posters,
+		PaintRed,
+		Paintbrush,
+		Result:HeedTheDragon,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Paint "Heed The Call" Graffiti
+	{
+		Category:Posters,
+		PaintRed,
+		Paintbrush,
+		Result:HeedTheCall,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Paint "I Love KWRR" Graffiti
+	{
+		Category:Posters,
+		PaintRed,
+		Paintbrush,
+		Result:ILoveKWRR,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Paint "Is Daddy Back" Graffiti
+	{
+		Category:Posters,
+		PaintWhite,
+		Paintbrush,
+		Result:IsDaddyBack,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Paint "Daddy Dont Ban Me uWu" Graffiti
+	{
+		Category:Posters,
+		PaintWhite,
+		Paintbrush,
+		Result:DaddyDontBanMe,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Paint "Where Is Daddy HN" Graffiti
+	{
+		Category:Posters,
+		PaintWhite,
+		Paintbrush,
+		Result:WhereIsDaddyHN,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Paint "The Orphanage Will Protect You" Graffiti
+	{
+		Category:Posters,
+		PaintWhite,
+		Paintbrush,
+		Result:TheOrphanageWillProtectYou,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Paint "Accept The God Suba" Graffiti
+	{
+		Category:Posters,
+		PaintWhite,
+		Paintbrush,
+		Result: AcceptTheGodSuba,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+
+		recipe Paint "Join the Cult of Suba" Graffiti
+	{
+		Category:Posters,
+		PaintWhite,
+		Paintbrush,
+		Result: JoinTheCultOfSuba,
+		CanBeDoneFromFloor:true,
+		Time:150,
+		AnimNode:Disassemble,
+	}
+}

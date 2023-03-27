@@ -1,0 +1,123 @@
+module KWRR
+{
+
+    	item HeedTheCall
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "Heed The Call" Graffiti,
+		WorldObjectSprite	= spraypaint_1_8,
+	}
+
+		item DaddyImHungry
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "Daddy Im Hungry" Graffiti,
+		WorldObjectSprite	= spraypaint_1_24,
+	}
+
+		item BowToDragon
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "Bow To Dragon" Graffiti,
+		WorldObjectSprite	= spraypaint_1_2,
+	}
+
+		item HeedTheDragon
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "Heed The Dragon" Graffiti,
+		WorldObjectSprite	= spraypaint_1_22,
+	}
+
+		item OurLordDragon
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "Our Lord Dragon!" Graffiti,
+		WorldObjectSprite	= spraypaint_1_1,
+	}
+
+		item ILoveKWRR
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "I Love KWRR" Graffiti,
+		WorldObjectSprite	= spraypaint_1_20,
+	}
+
+		item AcceptTheGodSuba
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "Accept The God Suba" Graffiti,
+		WorldObjectSprite	= spraypaint_1_10,
+	}
+	
+		item JoinTheCultOfSuba
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "Join the Cult of Suba" Graffiti,
+		WorldObjectSprite	= spraypaint_1_4,
+	}
+
+		item DaddyDontBanMe
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "Daddy Dont Ban Me uWu" Graffiti,
+		WorldObjectSprite	= spraypaint_1_18,
+	}
+
+		item IsDaddyBack
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "Is Daddy HN Back From Getting Cigarettes?" Graffiti,
+		WorldObjectSprite	= spraypaint_1_16,
+	}
+
+		item WhereIsDaddyHN
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "Where Is Daddy HN?" Graffiti,
+		WorldObjectSprite	= spraypaint_1_12,
+	}
+
+		item TheOrphanageWillProtectYou
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Graffiti,
+		Weight		  	= 0.5,
+		DisplayName		= "The Orphanage Will Protect You" Graffiti,
+		WorldObjectSprite	= spraypaint_1_14,
+	}
+}
