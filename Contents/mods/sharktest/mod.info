@@ -1,6 +1,6 @@
 name=1sharkmod
 id=sharkmod
 pack=KWRR_pack
-tiledef=KWRR_tiles 212
+tiledef=KWRR_tiles 213
 description=This is an example mod containing two maps.
 poster=poster.png

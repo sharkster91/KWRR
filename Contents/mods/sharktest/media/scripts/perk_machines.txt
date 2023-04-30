@@ -1,0 +1,134 @@
+module KWRR
+{
+
+
+  	item JuggernogMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Juggernog,
+		Weight		  	= 15,
+		DisplayName		= Juggernog Machine,
+		WorldObjectSprite	= machines_2_0,
+	}
+
+		item SpeedColaMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= SpeedCola,
+		Weight		  	= 15,
+		DisplayName		= Speed Cola Machine,
+		WorldObjectSprite	= machines_7,
+	}
+
+		item QuickReviveMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= QuickRevive,
+		Weight		  	= 15,
+		DisplayName		= Quick Revive Machine,
+		WorldObjectSprite	= machines_1,
+	}
+
+		item MuleKickMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= MuleKick,
+		Weight		  	= 15,
+		DisplayName		= Mule Kick Machine,
+		WorldObjectSprite	= machines_15,
+	}
+
+		item DoubleTapMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= DoubleTap,
+		Weight		  	= 15,
+		DisplayName		= Double Tap Machine,
+		WorldObjectSprite	= machines_15,
+	}
+
+    	item WidowsWineMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= WidowsWine,
+		Weight		  	= 15,
+		DisplayName		= Widow's Wine Machine,
+		WorldObjectSprite	= machines_3,
+	}
+
+		item ElectricCherryMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= ElectricCherry,
+		Weight		  	= 15,
+		DisplayName		= Electric Cherry Machine,
+		WorldObjectSprite	= machines_7,
+	}
+
+		item WhosWhoMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= WhosWho,
+		Weight		  	= 15,
+		DisplayName		= Who's Who Machine,
+		WorldObjectSprite	= machines_1,
+	}
+
+		item FlopperPHDMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= FlopperPHD,
+		Weight		  	= 15,
+		DisplayName		= Flopper PHD Machine,
+		WorldObjectSprite	= machines_15,
+	}
+
+    	item StaminUpMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= StaminUp,
+		Weight		  	= 15,
+		DisplayName		= Stamin-Up Machine,
+		WorldObjectSprite	= machines_19,
+	}
+
+	    item TombstoneMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= Tombstone,
+		Weight		  	= 15,
+		DisplayName		= Tombstone Machine,
+		WorldObjectSprite	= machines_23,
+	}
+
+	    item VultureAidMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= VultureAid,
+		Weight		  	= 15,
+		DisplayName		= Vulture Aid Machine,
+		WorldObjectSprite	= machines_27,
+	}
+
+		item DeadshotDaiquiriMachine
+	{
+		DisplayCategory = Furniture,
+		Type			= Moveable,
+		Icon			= DeadshotDaiquiri,
+		Weight		  	= 15,
+		DisplayName		= Deadshot Daiquiri Machine,
+		WorldObjectSprite	= machines_31,
+	}
+}
